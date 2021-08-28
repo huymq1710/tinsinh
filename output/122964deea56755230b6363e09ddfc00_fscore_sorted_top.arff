@@ -1,0 +1,43 @@
+@relation Carbonylation
+
+@attribute Feature1 numeric
+@attribute Feature2 numeric
+@attribute Feature3 numeric
+@attribute Feature4 numeric
+@attribute Feature5 numeric
+@attribute Feature6 numeric
+@attribute Feature7 numeric
+@attribute Feature8 numeric
+@attribute Feature9 numeric
+@attribute Feature10 numeric
+@attribute Feature11 numeric
+@attribute Feature12 numeric
+@attribute Feature13 numeric
+@attribute Feature14 numeric
+@attribute Feature15 numeric
+@attribute Feature16 numeric
+@attribute Feature17 numeric
+@attribute Feature18 numeric
+@attribute Feature19 numeric
+@attribute Feature20 numeric
+@attribute Feature21 numeric
+@attribute Feature22 numeric
+@attribute Feature23 numeric
+@attribute Feature24 numeric
+@attribute Feature25 numeric
+@attribute Feature26 numeric
+@attribute Feature27 numeric
+@attribute Feature28 numeric
+@attribute Feature29 numeric
+@attribute Feature30 numeric
+@attribute Feature31 numeric
+@attribute Feature32 numeric
+@attribute Feature33 numeric
+@attribute Feature34 numeric
+@attribute Feature35 numeric
+@attribute Feature36 numeric
+@attribute Feature37 numeric
+@attribute Feature38 numeric
+@attribute label {1,0}
+
+@data

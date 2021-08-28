@@ -1,0 +1,25 @@
+{
+  "name": "icarps",
+  "version": "1.0.0",
+  "description": "iCarPS provides a machine-learning method for carbonylation site prediction. It is implemented by WEKA library--random forest. At present, it provides user-friendly webserver to predict carbonylation sites freely, refering to http://lin-group.cn/server/iCarPS/webServer.html. Here we also provide our source codes for researchers who would like to run locally and conveniently to predict the query protein sequences in bulk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangdan0/iCarPS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangdan0/iCarPS/issues"
+  },
+  "homepage": "https://github.com/zhangdan0/iCarPS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}

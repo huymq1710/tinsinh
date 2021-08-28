@@ -1,0 +1,67 @@
+.Khung {
+  display: flex;
+  margin: 0px;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  background: url("dna-3656587_1920.jpg");
+  flex: 1;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: rgb(139, 129, 129);
+}
+.footer {
+  padding: 10px;
+  text-align: center;
+}
+
+.button {
+  background-color: #008CBA; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 100px;
+}
+.button:hover {
+  background-color: #008CBA; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  opacity: 0.5;
+}
+
+.custom-file-upload {
+  border: 1px solid rgb(82, 53, 136);
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.custom-table {
+  background-color:#d9d9d9;
+  position:absolute;
+  margin-left:-150px; /* half of width */
+  margin-top:200px;  /* half of height */
+  left:42%;
+  top:50%;
+  font-size: 20px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: fit-content;
+}
